@@ -1,0 +1,4 @@
+Model,Accuracy,F1-Score
+Logistic Regression,75.97%,0.76
+Decision Tree,72.73%,0.73
+Random Forest,75.97%,0.76
