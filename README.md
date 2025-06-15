@@ -47,6 +47,14 @@ ________________________________________________________________________________
 **Dickson Houmbie**
 🔬 Focus: AI for Healthcare | Machine Learning for Early Disease Detection
 
+_________________________________________________________________________________________________
+
+## License
+
+This project is protected under copyright law.  
+All rights reserved © 2025 Dickson Houmbie. Unauthorized use is prohibited.
+
+For permission requests, contact: hdickson.prof@gmail.com
 
 
 
